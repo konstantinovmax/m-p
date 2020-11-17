@@ -1,5 +1,6 @@
 @import url(./__title/header__title.css);
 @import url(./__subtitle/header__subtitle.css);
+@import url(./__logo/header__logo.css);
 
 .header {
     margin: 0 auto;
@@ -8,4 +9,5 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    box-sizing: border-box;
 }
